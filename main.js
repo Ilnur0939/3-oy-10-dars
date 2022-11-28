@@ -1,5 +1,5 @@
 
-1 - MASALA
+// 1 - MASALA
 
 function func(index, inStr){
     let strIndex = index.split(" ")
